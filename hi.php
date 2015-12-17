@@ -1,5 +1,5 @@
 <?
     print 'hi';
     print 'welcome';
-    print 'welcome';
+    print 'welcome1';
     
